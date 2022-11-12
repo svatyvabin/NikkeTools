@@ -1,5 +1,6 @@
 # NikkeTools
 Encryption/Decryption of assets for NIKKE: Goddess of Victory for purposes of modding of graphical assets  
+If you like this tool and wish to support future development, consider buying me a coffee @ https://ko-fi.com/fzfalzar or use the sponsor button!
 
 ## Special Thanks  
 dimbreath, yretenai, Bugs Bunnay and whoever I may have forgotten to mention.  
