@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikkeTools", "NikkeTools.csproj", "{55C8BAEF-A651-4E2F-9714-E14C71E5C51D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C8BAEF-A651-4E2F-9714-E14C71E5C51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C8BAEF-A651-4E2F-9714-E14C71E5C51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C8BAEF-A651-4E2F-9714-E14C71E5C51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C8BAEF-A651-4E2F-9714-E14C71E5C51D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F39AB94-AC99-4DCE-ACC0-00ADBD4EB531}
+	EndGlobalSection
+EndGlobal

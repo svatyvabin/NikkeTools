@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NikkeTools": {
+      "commandName": "Project",
+      "commandLineArgs": "./test_enc_dec"
+    }
+  }
+}
