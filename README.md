@@ -9,6 +9,9 @@ dimbreath, yretenai, Bugs Bunnay and whoever I may have forgotten to mention.
 Shiftup/Level Infinite owns the original assets to the game, all credits go to its rightful owner.  
 I am not liable for any damages caused if you get banned from using a mod created by this tool, or its derivatives.  
 
+WARNING: Don't be that guy that decides to use this solely for the purpose of clout-farming/karma-farming with leak nonsense or game hacking.  
+If Shiftup/Level Infinite decides to crack down on modding because of your stupid actions, you deserve the trouble coming for you.  
+
 ## Requirements
 .NET Core 3.1 or later - https://dotnet.microsoft.com/en-us/download/dotnet/3.1  
 
